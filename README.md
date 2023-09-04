@@ -60,8 +60,6 @@ Swashbuckle.AspNetCore 6.2.3
 ```
 Edite a linha "DefaultConnection". Você vai precisar inserir o nome do seu servidor, o nome da database(aconselho 'APIUsers'), o logon e sua senha.
 ```
-![image](https://github.com/lucasalvesb/APIUsers/assets/71532408/ca0985f5-cbb2-4adb-9790-303cdd43d532)
-
 
 ### Crie uma nova migração:
 
